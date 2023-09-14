@@ -26,7 +26,7 @@ btnSearch.addEventListener('click', () =>{
                 imgs.src = 'img/clear.png';
                 break;
 
-            case 'Cloud':
+            case 'Clouds':
                 imgs.src = 'img/cloud.png';
                 break;
 
